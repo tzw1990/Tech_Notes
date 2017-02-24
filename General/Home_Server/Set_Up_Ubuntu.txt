@@ -1,0 +1,16 @@
+1. current using Ubuntu 16.04
+
+2. GFX 1060/70/80 will not actually working when install because the driver issue: 
+http://askubuntu.com/questions/795547/ubuntu-16-04-unable-to-boot-with-gtx-1080
+
+Follow the setup:
+install ubuntu with integration grafic card on motherboard, then install -367 driver, then restart with GFX GPU card.
+
+3. setup .bashrc to load .bash_profile, add the following line in .bashrc
+   source ~/.bash_profile
+   
+4. .bash_profile example:
+#JAVA
+export JAVA_HOME=/opt/java/jdk1.8.0_121
+
+export PATH=$JAVA_HOME/bin:$PATH
