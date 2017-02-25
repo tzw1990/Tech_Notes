@@ -1,0 +1,7 @@
+CS101 programming and problem solving
+CS201 Program Design and Data Structure
+CS251 Imtermediate Software Design
+CS261 Principles of Operating Systems
+CS278 Principles of Software Engineering
+CS279 Software Engineering Project
+CS282 Principles of Operating System II
