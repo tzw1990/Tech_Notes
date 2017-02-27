@@ -1,0 +1,4 @@
+Using GNOME Windows.
+
+1. install Chrome
+link: http://www.tecmint.com/install-google-chrome-on-redhat-centos-fedora-linux/
